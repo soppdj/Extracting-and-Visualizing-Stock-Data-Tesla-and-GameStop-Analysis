@@ -1,0 +1,2 @@
+# Extracting-and-Visualizing-Stock-Data-Tesla-and-GameStop-Analysis
+Welcome to my final project repository focusing on extracting and visualizing stock data for Tesla and GameStop using web scraping techniques. In this project, I've utilized Python libraries such as BeautifulSoup, Pandas, and Matplotlib to gather historical stock prices and revenue data for Tesla and GameStop from relevant online sources.
